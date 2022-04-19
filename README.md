@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ocean data assimilation
 
 
-[![Aydogdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aydogduali)](https://github.com/aydogduali)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aydogduali&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
