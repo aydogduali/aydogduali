@@ -5,7 +5,7 @@
 ### Tech
 
 * Linux :penguin:, osx
-* Python :snake: (PyTorch :fire:, NumPy, Pandas, Jupyter, ...), Fortran, C/C++
+* Python :snake: Fortran, C/C++
 * Git, GitHub :octocat:, Docker :whale:, LSF
 * LaTeX :bird:, Overleaf :leaves:, Markdown
 
