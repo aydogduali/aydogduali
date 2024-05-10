@@ -2,6 +2,12 @@
 
 - 🔭 I’m currently working on ocean data assimilation
 
+### Tech
+
+* Linux :penguin:, osx
+* Python :snake: (PyTorch :fire:, NumPy, Pandas, Jupyter, ...), Fortran, C/C++
+* Git, GitHub :octocat:, Docker :whale:, LSF
+* LaTeX :bird:, Overleaf :leaves:, Markdown
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aydogduali&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
