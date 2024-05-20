@@ -1,6 +1,6 @@
 ### Hi there!
 
-- 🔭 An oceanographer working on data assimilation in the ocean and on the sea-ice.
+- 🔭 A computational oceanographer working on ocean and sea-ice data assimilation.
 
 ### Tech
 
