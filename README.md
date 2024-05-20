@@ -1,6 +1,6 @@
 ### Hi there!
 
-- 🔭 I’m currently working on ocean data assimilation
+- 🔭 An oceanographer working on data assimilation in the ocean and on the sea-ice.
 
 ### Tech
 
